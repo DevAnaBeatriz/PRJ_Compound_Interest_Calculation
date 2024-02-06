@@ -1,4 +1,4 @@
-<h1 align="center">Project Jetpack Compose Crono</h1>
+<h1 align="center">Project Python Compound Interest Calculation</h1>
 
 ###
 
